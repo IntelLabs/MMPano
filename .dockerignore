@@ -1,0 +1,9 @@
+*
+!.env
+!Dockerfile
+!app
+!exp
+!mm_pano
+!requirements*
+
+mm_pano/tgi_gaudi/data/

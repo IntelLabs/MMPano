@@ -1,0 +1,14 @@
+wheel
+diffusers
+transformers
+scipy
+openai==0.27.2
+matplotlib
+imageio[ffmpeg]
+opencv-python
+accelerate
+einops 
+auto-gptq
+tiktoken
+transformers_stream_generator
+text-generation  # TGI and TGI Gaudi

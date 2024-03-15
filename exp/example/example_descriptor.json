@@ -1,0 +1,12 @@
+{
+	"init_image": "exp/example/0.png",
+        "init_prompt": "a forest",
+        "generated_text_details": "a road in autumn",
+        "message": "View 1: We see a narrow, pebbled forest path.\nView 2: We see a rusted, overgrown log bridge crossing a creek.\nView 3: We see an antique lamppost, partially hidden by leaves.\nView 4: We see an old wooden cabin, shrouded in shadows.\nView 5: We see a past-its-prime swing hanging from an oak.\nView 6: We see a moss-laden stone bench facing a pond.",
+        "message_main_obj": "We see: fallen leaves.\nWe see: a path.",
+        "message_topdown": "We see: Canopy\nWe see: Leaf-covered path",
+        "question_for_llm_repeat": "Do we often see multiple a path in a scene with a forest? Just say 'yes' or 'no' with all lower case letters",
+        "description_no_obj": "'a forest'",
+        "major_obj_number": 2,
+        "is_repeated": [true, true]
+}

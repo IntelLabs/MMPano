@@ -1,0 +1,34 @@
+# From vault.habana.ai/gaudi-docker/1.14.0/ubuntu22.04/habanalabs/pytorch-installer-2.1.1:latest
+From vault.habana.ai/gaudi-docker/1.15.0/ubuntu22.04/habanalabs/pytorch-installer-2.2.0:latest
+
+WORKDIR /app
+
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y \
+        tmux
+#####################
+# Multimodal Panorama Generation source code
+#####################
+# Common requirements
+COPY requirements.txt /app/requirements.txt
+RUN pip3 install --upgrade pip && \
+    pip3 install -r requirements.txt
+
+# Copy code
+COPY mm_pano /app/mm_pano
+COPY exp /app/exp
+
+######################
+# Application frontend 
+######################
+COPY requirements-api.txt /app/requirements-api.txt
+RUN pip3 install -r requirements-api.txt
+COPY app /app/app
+COPY .env /app/.env
+
+###########################
+# HPU specific requirements
+###########################
+COPY requirements-hpu.txt /app
+RUN pip3 install -r requirements-hpu.txt

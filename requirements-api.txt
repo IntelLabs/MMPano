@@ -1,0 +1,5 @@
+# fastAPI and gradio
+fastapi
+uvicorn
+gradio
+envbash

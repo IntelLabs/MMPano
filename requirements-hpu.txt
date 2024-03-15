@@ -1,0 +1,2 @@
+# Fix to the main branch once the PR (https://github.com/huggingface/optimum-habana/pull/869/commits) gets merged
+git+https://github.com/huggingface/optimum-habana.git@8893d602289226eda82cf19c79951fa12d15e1b9
