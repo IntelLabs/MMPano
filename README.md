@@ -7,7 +7,7 @@ We present a novel method that can generate 360 degree panorama from different t
 
 - [Paper](https://zhipengcai.github.io/MMPano/)
 - [Project Page](https://zhipengcai.github.io/MMPano/)
-- [Youtube Video](https://zhipengcai.github.io/MMPano/)
+- [Youtube Video](https://youtu.be/XDMNEzH4-Ec)
 - [Huggingface demo (coming soon)](https://zhipengcai.github.io/MMPano/)
 
 ## Industrial Impact
