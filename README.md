@@ -124,13 +124,30 @@ To change the setups, e.g.
 - use cuda, change `--device hpu` to `--device cuda`
 - specify camera intrinsic for the input image, add `--intrinsitc float, float, float, float`
 
-## Results
+## Results (see more on our project page and paper)
 
 After running the code, you will see in the output_folder (exp/outputs) a panoramic image "pano.png" (see below for examples) and a immersive video "video.mp4".
 
 <div align="center">
   <img width="800" src="media/pano.png">
 </div>
+
+<div align="center">
+  <img width="800" src="media/snow.jpg">
+</div>
+
+<div align="center">
+  <img width="800" src="media/underwater.jpeg">
+</div>
+
+<div align="center">
+  <img width="800" src="media/livingRoom.jpg">
+</div>
+
+<div align="center">
+  <img width="800" src="media/library.jpg">
+</div>
+
 
 ## Contact
 
