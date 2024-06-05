@@ -5,14 +5,16 @@ We present a novel method that can generate 360 degree panorama from different t
   <img width="800" src="media/pipeline.png">
 </div>
 
-- [Paper](https://zhipengcai.github.io/MMPano/)
+- [Paper](https://arxiv.org/abs/2406.01843)
 - [Project Page](https://zhipengcai.github.io/MMPano/)
 - [Youtube Video](https://youtu.be/XDMNEzH4-Ec)
 - [Huggingface demo (coming soon)](https://zhipengcai.github.io/MMPano/)
 
 ## Industrial Impact
 
-Our work has been selected as **one of the 5 Intel featured live demos** at [ISC HPC 2024](https://www.intel.com/content/www/us/en/events/supercomputing.html). 
+- Our work has been selected as **one of the 5 Intel featured live demos** at [ISC HPC 2024](https://www.intel.com/content/www/us/en/events/supercomputing.html).
+- Our work has been featured by [Intel Community Blog](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Advancing-Gen-AI-on-Intel-Gaudi-AI-Accelerators-with-Multi-Modal/post/1603746)!
+- Our work has been featured by [Intel Labs Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7203797143831076864/)!
 
 <div align="center">
   <img width="800" src="media/ISC.png">
