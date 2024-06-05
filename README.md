@@ -19,6 +19,9 @@ We present a novel method that can generate 360 degree panorama from different t
 <div align="center">
   <img width="800" src="media/ISC.png">
 </div>
+<div align="center">
+  <img width="800" src="media/blog.png">
+</div>
 
 ## 📌 Reference
 
