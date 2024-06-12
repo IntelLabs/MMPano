@@ -1,5 +1,5 @@
 # [CVPR 2024] Official implementation of the paper: "L-MAGIC: Language Model Assisted Generation of Images with Coherence"
-We present a novel method that can generate 360 degree panorama from different types of zero-shot inputs (e.g., a single image, text description, hand-drawing etc.)
+We present a novel method that can generate 360 degree panorama from different types of zero-shot inputs (e.g., a single image, text description, hand-drawing etc.). Our Huggingface space is now available. Feel free to try it out!
 
 <div align="center">
   <img width="800" src="media/pipeline.png">
@@ -8,7 +8,7 @@ We present a novel method that can generate 360 degree panorama from different t
 - [Paper](https://arxiv.org/abs/2406.01843)
 - [Project Page](https://zhipengcai.github.io/MMPano/)
 - [Youtube Video](https://youtu.be/XDMNEzH4-Ec)
-- [Huggingface demo (coming soon)](https://huggingface.co/spaces/MMPano/MMPano)
+- [Huggingface demo (now available!)](https://huggingface.co/spaces/MMPano/MMPano)
 
 ## Industrial Impact
 
