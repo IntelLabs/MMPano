@@ -1,4 +1,6 @@
 # [CVPR 2024] Official implementation of the paper: "L-MAGIC: Language Model Assisted Generation of Images with Coherence"
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/IntelLabs/MMPano/badge)](https://scorecard.dev/viewer/?uri=github.com/IntelLabs/MMPano)
+
 We present a novel method that can generate 360 degree panorama from different types of zero-shot inputs (e.g., a single image, text description, hand-drawing etc.). Our Huggingface space is now available. Feel free to try it out!
 
 <div align="center">
