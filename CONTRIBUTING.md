@@ -2,7 +2,7 @@
 
 ### License
 
-The Intel HERACLES P-ISA Tools project is licensed under the terms in [LICENSE](https://github.com/IntelLabs/hec-p-isa-tools/blob/main/LICENSE). By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
+The Intel MMPano project is licensed under the terms in [LICENSE](https://github.com/IntelLabs/MMPano/blob/main/LICENSE). By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
 
 ### Sign your work
 
