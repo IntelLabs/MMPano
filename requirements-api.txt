@@ -1,5 +1,2 @@
-# fastAPI and gradio
-fastapi
-uvicorn
-gradio
-envbash
+gradio==4.41.0
+envbash==1.2.0

@@ -1,14 +1,13 @@
-wheel
-diffusers
-transformers
-scipy
+wheel==0.44.0
+diffusers==0.30.0
+scipy==1.14.0
 openai==0.27.2
-matplotlib
-imageio[ffmpeg]
-opencv-python
-accelerate
-einops 
-auto-gptq
-tiktoken
-transformers_stream_generator
-text-generation  # TGI and TGI Gaudi
+matplotlib==3.9.1.post1
+imageio[ffmpeg]==2.34.2
+opencv-python==4.10.0.84
+accelerate==0.33.0
+einops==0.8.0
+auto-gptq==0.7.1; sys_platform=='linux'
+tiktoken==0.7.0
+transformers-stream-generator==0.0.5
+text-generation==0.7.0
