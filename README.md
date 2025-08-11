@@ -1,3 +1,9 @@
+# PROJECT NOT UNDER ACTIVE MANAGEMENT #  
+This project will no longer be maintained by Intel.  
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
+Intel no longer accepts patches to this project.  
+ If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the open source software community, please create your own fork of this project.  
+  
 # [CVPR 2024] Official implementation of the paper: "L-MAGIC: Language Model Assisted Generation of Images with Coherence"
 We present a novel method that can generate 360 degree panorama from different types of zero-shot inputs (e.g., a single image, text description, hand-drawing etc.). Our Huggingface space is now available. Feel free to try it out!
 
